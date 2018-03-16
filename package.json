@@ -1,0 +1,22 @@
+{
+    "name": "procoder",
+    "displayName": "ProCoder",
+    "description": "This is a Color Theme!",
+    "version": "0.0.1",
+    "publisher": "PriyoMukul",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ProCoder - Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ProCoder - Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
