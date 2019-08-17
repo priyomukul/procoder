@@ -120,8 +120,7 @@
 		"terminal.ansiBrightCyan": "#08e8de",
 		"terminal.ansiBrightWhite": "#d4d7d9"
 	},
-	"tokenColors": [
-		{
+	"tokenColors": [{
 			"settings": {
 				"foreground": "#bbbbbbff",
 				"background": "#282c34ff"
@@ -166,8 +165,7 @@
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				// "foreground": "#5C6370",
-				"foreground": "#47484c",
+				"foreground": "#5C6370",
 				"fontStyle": "italic"
 			}
 		},
